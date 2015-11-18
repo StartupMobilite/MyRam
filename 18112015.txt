@@ -1,0 +1,13 @@
+ébauche du power point 
+cours API : Application Programming Interface
+	Rest : design Patern des API (ajouter/supprimer/modifier)
+	Types de requetes : post/put/get/delete
+	post : creer
+	put : mise a jour
+	get recuperer des donnees
+	
+notions de sécurités des API
+Exemple : application qui trie et collecte des données pour rechercher de maniere optimale des stations VELIB les plus proches de l'endroit ou l'on est.
+
+Création d'un compte AZURE 
+Cours C# 15h 17h30
